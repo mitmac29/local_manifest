@@ -13,10 +13,6 @@
  <project path="hardware/xiaomi" name="hardware_xiaomi.git" remote="mit" revision="marble" clone-depth="1" />
  <project path="vendor/motorola-dolby" name="vendor_motorola-dolby.git" remote="mit" revision="v1.3" clone-depth="1" />
 
- <remove-project name="platform/hardware/qcom/audio" />
- <remove-project name="platform/hardware/qcom/display" />
- <remove-project name="platform/hardware/qcom/display" />
- 
  <project path="hardware/qcom-caf/sdm660/media" name="android_hardware_qcom-caf_sdm660_media.git" remote="mit" revision="XOS-15.0" clone-depth="1" />
  <project path="hardware/qcom-caf/sdm660/display" name="android_hardware_qcom-caf_sdm660_display.git" remote="mit" revision="XOS-15.0" clone-depth="1" />
  <project path="hardware/qcom-caf/sdm660/audio" name="android_hardware_qcom-caf_sdm660_audio.git" remote="mit" revision="XOS-15.0" clone-depth="1" />
