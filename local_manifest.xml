@@ -7,7 +7,7 @@
  <!-- Trees -->
 <project path="device/xiaomi/lavender" name="device_xiaomi_lavender.git" remote="mit" revision="aicpA14" clone-depth="1" />
 <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavenderL21.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
-<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomisonix.git" remote="mit" revision="Retro-14" clone-depth="1" />
+<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomisonix.git" remote="mit" revision="android14-4.19-sdm660" clone-depth="1" />
 <project path="vendor/motorola-dolby" name="vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
  
  <!--remove-project name="LineageOS/hardware_qcom_audio" />
