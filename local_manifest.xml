@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
- <remote name="mit"
-          fetch="https://github.com/mitmac29" />
+               <remote name="mit"
+                       fetch="https://github.com/mitmac29" />
 
  <!-- Trees -->
- <project path="device/xiaomi/lavender" name="device_xiaomi_lavender.git" remote="mit" revision="u14.0" clone-depth="1" />
- <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavenderL21.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
- <project path="kernel/xiaomi/lavender" name="android_kernel_xiaomisonix.git" remote="mit" revision="Retro-14" clone-depth="1" />
- <project path="vendor/motorola-dolby" name="vendor_motorola-dolby.git" remote="mit" revision="v1.3" clone-depth="1" />
-
- <remove-project name="LineageOS/hardware_qcom_audio" />
+<project path="device/xiaomi/lavender" name="device_xiaomi_lavender.git" remote="mit" revision="u14.0" clone-depth="1" />
+<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavenderL21.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
+<project path="kernel/xiaomi/lavender" name="android_kernel_xiaomisonix.git" remote="mit" revision="Retro-14" clone-depth="1" />
+<project path="vendor/motorola-dolby" name="vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
+ 
+ <!--remove-project name="LineageOS/hardware_qcom_audio" />
  <remove-project name="LineageOS/hardware_qcom_media" />
  <remove-project name="LineageOS/hardware_qcom_display" />
 
@@ -18,6 +18,6 @@
  <project path="hardware/qcom-caf/sdm660/display" name="hardware_qcom-caf_sdm660_display.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
  <project path="hardware/qcom-caf/sdm660/audio" name="hardware_qcom-caf_sdm660_audio.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
 
- <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="mit" revision="lineage-21" clone-depth="1" />
+ <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="mit" revision="lineage-21" clone-depth="1" -->
 
 </manifest>
