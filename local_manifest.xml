@@ -2,14 +2,15 @@
 <manifest>
 
                <remote name="mit"
-                       fetch="https://github.com/mitmac29" />
+                       fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="mit" revision="aicpA14" clone-depth="1" />
-<project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavenderL21" remote="mit" revision="lineage-21.0" clone-depth="1" />
-<project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavendersonix" remote="mit" revision="android14-4.19-sdm660" clone-depth="1" />
-<project path="vendor/motorola-dolby" name="vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
- 
+<project path="device/xiaomi/lavender" name="mitmac29/device_xiaomi_lavender" remote="mit" revision="aicpA14" clone-depth="1" />
+<project path="vendor/xiaomi/lavender" name="mitmac29/vendor_xiaomi_lavenderL21" remote="mit" revision="lineage-21.0" clone-depth="1" />
+<project path="kernel/xiaomi/lavender" name="mitmac29/kernel_xiaomi_lavendersonix" remote="mit" revision="android14-4.19-sdm660" clone-depth="1" />
+<project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
+<project path="packages/apps/Viper4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX" remote="mit" revision="fifteen" />
+<project path="hardware/xiaomi" name="
  <!--remove-project name="LineageOS/hardware_qcom_audio" />
  <remove-project name="LineageOS/hardware_qcom_media" />
  <remove-project name="LineageOS/hardware_qcom_display" />
