@@ -10,7 +10,7 @@
 <project path="kernel/xiaomi/lavender" name="mitmac29/kernel_xiaomi_lavendersonix" remote="mit" revision="android14-4.19-sdm660" clone-depth="1" />
 <project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
 <project path="packages/apps/Viper4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX" remote="mit" revision="fifteen" />
-<project path="hardware/xiaomi" name="
+<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="mit" revision="lineage-21" />
  <!--remove-project name="LineageOS/hardware_qcom_audio" />
  <remove-project name="LineageOS/hardware_qcom_media" />
  <remove-project name="LineageOS/hardware_qcom_display" />
