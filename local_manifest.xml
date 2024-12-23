@@ -5,10 +5,10 @@
                        fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="mitmac29/device_xiaomi_lavender" remote="mit" revision="sakura" clone-depth="1" />
+<project path="device/xiaomi/lavender" name="mitmac29/device_xiaomi_lavender" remote="mit" revision="los21" clone-depth="1" />
 <project path="vendor/xiaomi/lavender" name="mitmac29/vendor_xiaomi_lavenderL21" remote="mit" revision="lineage-21.0" clone-depth="1" />
 <project path="kernel/xiaomi/lavender" name="user-why-red/android_kernel_xiaomi_sdm660_419" remote="mit" revision="android-4.19-stable" clone-depth="1" />
-<project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.3" clone-depth="1" />
+<project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX" remote="mit" revision="fifteen" />
 <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="mit" revision="lineage-21" />
  <!--remove-project name="LineageOS/hardware_qcom_audio" />
