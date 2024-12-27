@@ -9,7 +9,7 @@
 <project path="device/xiaomi/sdm660-common" name="mitmac29/PE11common.git" remote="mit" revision="cr11" clone-depth="1" />
 <project path="vendor/xiaomi/lavender" name="mitmac29/vendorPE11.git" remote="mit" revision="cr11" clone-depth="1" />
 <project path="vendor/xiaomi/sdm660-common" name="mitmac29/vendor_PE_common.git" remote="mit" revision="cr11" clone-depth="1" />
-<project path="kernel/xiaomi/sdm660" name="user-why-red/android_kernel_xiaomi_sdm660_44.git" remote="mit" revision="android-4.4-stable" clone-depth="1" />
+<project path="kernel/xiaomi/lavender" name="user-why-red/android_kernel_xiaomi_sdm660_44.git" remote="mit" revision="android-4.4-stable" clone-depth="1" />
 <project path="vendor/dolby" name="mitmac29/vendor_dolby.git" remote="mit" revision="dolby-1.0-d1" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX" remote="mit" revision="fifteen" clone-depth="1" />
 <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="mit" revision="lineage-18.1" clone-depth="1" />
