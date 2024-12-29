@@ -5,20 +5,12 @@
                        fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="mitmac29/DTPE11.git" remote="mit" revision="cr11" clone-depth="1" />
-<project path="vendor/xiaomi/lavender" name="mitmac29/vendorPEA11.git" remote="mit" revision="cr11" clone-depth="1" />
-<project path="kernel/xiaomi/lavender" name="user-why-red/android_kernel_xiaomi_sdm660_44.git" remote="mit" revision="android-4.4-stable" clone-depth="1" />
-<project path="vendor/dolby" name="mitmac29/vendor_dolby.git" remote="mit" revision="dolby-1.0-d1" clone-depth="1" />
+<project path="device/xiaomi/lavender" name="pix106/android_device_xiaomi_lavender" remote="mit" revision="cr11" clone-depth="1" />
+<project path="device/xiaomi/sdm660-common" name="pix106/android_device_xiaomi_sdm660-common" remote="mit" revision="cr11" clone-depth="1" />
+<project path="vendor/xiaomi/lavender" name="pix106/android_vendor_xiaomi_lavender" remote="mit" revision="cr11" clone-depth="1" />
+<project path="vendor/xiaomi/sdm660-common" name="pix106/android_vendor_xiaomi_sdm660-common" remote="mit" revision="cr11" clone-depth="1" />
+<project path="kernel/xiaomi/lavender" name="user-why-red/android_kernel_xiaomi_sdm660_419.git" remote="mit" revision="android-4.19-stable" clone-depth="1" />
+<project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX" remote="mit" revision="fifteen" clone-depth="1" />
-<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="mit" revision="lineage-18.1" clone-depth="1" />
- <!--remove-project name="LineageOS/hardware_qcom_audio" />
- <remove-project name="LineageOS/hardware_qcom_media" />
- <remove-project name="LineageOS/hardware_qcom_display" />
-
- <project path="hardware/qcom-caf/sdm660/media" name="hardware_qcom-caf_sdm660_media.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
- <project path="hardware/qcom-caf/sdm660/display" name="hardware_qcom-caf_sdm660_display.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
- <project path="hardware/qcom-caf/sdm660/audio" name="hardware_qcom-caf_sdm660_audio.git" remote="mit" revision="lineage-21.0" clone-depth="1" />
-
- <project path="hardware/xiaomi" name="android_hardware_xiaomi.git" remote="mit" revision="lineage-21" clone-depth="1" -->
 
 </manifest>
