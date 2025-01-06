@@ -5,12 +5,11 @@
                        fetch="https://github.com" />
 
  <!-- Trees -->
-<project path="device/xiaomi/lavender" name="mitmac29/android_device_xiaomi_lavender15.git" remote="mit" revision="crA15" clone-depth="1" />
-<project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common.git" remote="mit" revision="crA15" clone-depth="1" />
+<project path="device/xiaomi/lavender" name="mitmac29/android_device_xiaomi_lavender15.git" remote="mit" revision="clover" clone-depth="1" />
+<project path="device/xiaomi/sdm660-common" name="mitmac29/android_device_xiaomi_sdm660-common.git" remote="mit" revision="clover" clone-depth="1" />
 <project path="vendor/xiaomi/lavender" name="mitmac29/android_vendor_xiaomi_lavender15.git" remote="mit" revision="15" clone-depth="1" />
 <project path="vendor/xiaomi/sdm660-common" name="mitmac29/android_vendor_xiaomi_sdm660-common.git" remote="mit" revision="15" clone-depth="1" />
 <project path="kernel/xiaomi/sdm660" name="user-why-red/android_kernel_xiaomi_sdm660_419.git" remote="mit" revision="android-4.19-stable" clone-depth="1" />
-<project path="vendor/motorola-dolby" name="mitmac29/vendor_motorola-dolby.git" remote="mit" revision="v1.2" clone-depth="1" />
 <project path="packages/apps/ViPER4AndroidFX" name="RisingTechOSS-devices/packages_apps_ViPER4AndroidFX.git" remote="mit" revision="fifteen" clone-depth="1" />
 
 </manifest>
